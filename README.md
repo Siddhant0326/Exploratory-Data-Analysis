@@ -1,14 +1,18 @@
-Exploratory Data Analysis
+# Exploratory Data Analysis
 
-Overview
-This repository contains exploratory data analysis (EDA) projects performed using Python, Pandas, Matplotlib, and Seaborn on multiple datasets.
+## Overview
 
-Datasets
-Iris Dataset
-Titanic Dataset
-Football Matches 2024-2025 Dataset
+This repository contains Exploratory Data Analysis (EDA) projects performed using Python, Pandas, Matplotlib, and Seaborn on multiple datasets.
 
-Repository Structure
+## Datasets
+
+* Iris Dataset
+* Titanic Dataset
+* Football Matches 2024-2025 Dataset
+
+## Repository Structure
+
+```text
 ├── Data/
 │   ├── iris.csv
 │   ├── titanic.csv
@@ -20,24 +24,28 @@ Repository Structure
 │   └── football_matches.ipynb
 │
 └── README.md
+```
 
-Technologies Used
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
+## Technologies Used
 
-Analysis Performed
-Data Cleaning
-Data Exploration
-Statistical Analysis
-Data Visualization
-Feature Understanding
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
-Key Learnings
-Working with real-world datasets
-Handling missing values
-Creating visualizations
-Extracting meaningful insights from data
+## Analysis Performed
+
+* Data Cleaning
+* Data Exploration
+* Statistical Analysis
+* Data Visualization
+* Feature Understanding
+
+## Key Learnings
+
+* Working with real-world datasets
+* Handling missing values
+* Creating visualizations
+* Extracting meaningful insights from data
